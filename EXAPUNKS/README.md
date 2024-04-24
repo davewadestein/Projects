@@ -1,9 +1,9 @@
 
 # EXAPUNKS Emulator (Adapted for Cvent/Apprenti)
 
-* Notes
+## Notes
 * sys.exit(1) is a way of bailing out
-* another way is raise ValueError('bad register') or Exception('unknown instruction')
+* another way is __`raise ValueError('bad register')`__ or __`raise Exception('unknown instruction')`__
 * don't stress too much over validation
 
 ## Introduction
